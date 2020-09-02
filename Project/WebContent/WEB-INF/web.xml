@@ -7,7 +7,7 @@
 	
 	<context-param>
 		<param-name>jdbcURL</param-name>
-		<param-value>jdbc:mysql://localhost:3306/SocietyFinancialManageent?useSSL=false&amp;allowPublicKeyRetrieval=true</param-value>
+		<param-value>jdbc:mysql://localhost:3306/SocietyFinancialManagement?useSSL=false&amp;allowPublicKeyRetrieval=true</param-value>
 	</context-param>
 
 	<context-param>
