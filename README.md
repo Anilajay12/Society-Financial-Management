@@ -1,4 +1,4 @@
-<p align="center">Society-Financial-Management</p><br><br>
+# <p align="center">Society-Financial-Management</p><br><br>
 
 # Software Requirements
 
@@ -13,7 +13,6 @@
   Servlets<br><br>
   
 # Description about Project
-
 
 It is a Project Related to Society (or) Residence Financial Management.Which is useful for managing our residency maintenance bills and residency budget ( Spendings on Events conducted on Society/Residency )
   
