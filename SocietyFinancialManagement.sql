@@ -1,6 +1,6 @@
-create database SocietyFinancialManageent;
+create database SocietyFinancialManagement;
 
-use SocietyFinancialManageent;
+use SocietyFinancialManagement;
 
 
 create table plotdetails(
